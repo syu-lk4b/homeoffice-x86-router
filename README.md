@@ -7,4 +7,5 @@ You could simply install the openwrt or other similar router OS to your machine.
 ## Hpyervisor options
 Vmware esxi https://www.vmware.com/asean/products/esxi-and-esx.html </br>
 PVE Proxmox https://pve.proxmox.com/wiki/Main_Page </br>
-
+Here is an comparison, I don't want to give any suggestions. You could choose whatever you like, Personally I have used both systems, But since esxi is not free and I don't want hijack or pay for it, So I am currently using the PVE free version. 
+https://www.smarthomebeginner.com/proxmox-vs-esxi/
